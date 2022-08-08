@@ -28,3 +28,13 @@ void main(){
   m.checkSugar();
   
 }
+
+// -----------------------------------------
+
+/* output
+Tea is making
+Add Sugar if not added yet
+
+
+mangoShake is making
+Add Sugar if not added yet  */
